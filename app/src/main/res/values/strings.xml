@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Magic Recipe</string>
+
+    <string name="msg_no_internet">No internet connection</string>
+    <string name="msg_no_data_found">No data found</string>
+    <string name="title_activity_map_list">MapActivity</string>
+    <string name="title_activity_news">NewsActivity</string>
+    <string name="title_news_sources">All News Sources</string>
+
+</resources>
